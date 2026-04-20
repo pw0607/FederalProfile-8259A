@@ -38,6 +38,9 @@ Ability to securely initiate and terminate communications with other devices. El
 - Ability to interface with DNS/DNSSEC.
 - Ability to store and process session identifiers.
 - Ability to identify and track sessions with identifiers.
+- Ability to operate within a network segment or zone isolated from other network segments.
+- Ability to support network-based access control mechanisms (e.g., VLAN tagging, network policy enforcement).
+
 
 ## Secure Resource Usage 
 
