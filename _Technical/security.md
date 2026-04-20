@@ -86,3 +86,6 @@ Ability to operate securely and safely. Elements that may be necessary:
   - Manufacturer defined capability
 - Ability to maintain safe operation of the device when cybersecurity functions fail or degrade, particularly for devices that interact with physical processes affecting human health or safety.
 - Ability to isolate cybersecurity failures from safety-critical device functions to prevent cybersecurity incidents from disrupting essential device operations.
+
+- Ability to maintain safe operation of the device when cybersecurity functions fail or degrade, particularly for devices that interact with physical processes affecting human health or safety.
+- Ability to isolate cybersecurity failures from safety-critical device functions to prevent cybersecurity incidents from disrupting essential device operations.
