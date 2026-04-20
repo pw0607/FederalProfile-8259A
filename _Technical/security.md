@@ -20,6 +20,8 @@ Ability to protect the execution of code on the device. Elements that may be nec
   - Ability to separate IoT device processes into separate execution domains.
 - Ability to separate the levels of IoT device user functionality.
 - Ability to authorize various levels of IoT device functionality.
+- Ability to securely boot the device and verify the integrity of its operating environment before execution.
+- Ability to validate firmware and software integrity at boot time using cryptographic verification (e.g., signed boot images).
 
 ## Secure Communication 
 
@@ -35,6 +37,8 @@ Ability to securely initiate and terminate communications with other devices. El
 - Ability to interface with DNS/DNSSEC.
 - Ability to store and process session identifiers.
 - Ability to identify and track sessions with identifiers.
+- Ability to operate within a network segment or zone isolated from other network segments.
+- Ability to support network-based access control mechanisms (e.g., VLAN tagging, network policy enforcement).
 
 ## Secure Resource Usage 
 
@@ -80,3 +84,5 @@ Ability to operate securely and safely. Elements that may be necessary:
   - Temperature and humidity mechanism
   - Water damage protection mechanism
   - Manufacturer defined capability
+- Ability to maintain safe operation of the device when cybersecurity functions fail or degrade, particularly for devices that interact with physical processes affecting human health or safety.
+- Ability to isolate cybersecurity failures from safety-critical device functions to prevent cybersecurity incidents from disrupting essential device operations.
