@@ -142,3 +142,19 @@ Policies and procedures provide the details necessary to implement management an
 - Ensure proper language is within IoT device manufacturer contracts, and their external service providers, describing how they will monitor compliance, perform audits, etc., as appropriate to the IoT device and control.
 - Provide a clear description of the legal compliance requirements to the IoT device manufacturer detailing the compliance needs that must be fulfilled by the IoT device manufacturer to meet all associated compliance requirements, as appropriate to the IoT device and controls.
 - Follow procedures to consistently ensure appropriate security and privacy controls language is included within contracts with IoT device manufacturers and service providers.
+
+## Policies and procedures for IoT device software transparency.
+
+Policies and procedures provide the details necessary to implement management and operational controls for IoT device software transparency through a Software Bill of Materials (SBOM). Actions that may be necessary:
+
+**Manufacturer:**
+
+- Provide IoT device customers with a Software Bill of Materials (SBOM) identifying third-party and open-source software components included in the IoT device.
+- Provide updates to the SBOM when device software is updated.
+- Provide information about known vulnerabilities in SBOM components at the time of delivery and through ongoing communications.
+
+**Agency:**
+
+- Implement policies and procedures requiring IoT device manufacturers to provide an SBOM as part of the procurement process.
+- Implement procedures to review SBOM contents against known vulnerability databases (e.g., NVD) prior to device deployment and on an ongoing basis.
+- Implement policies and procedures for retaining and managing SBOMs for all deployed IoT devices throughout the device lifecycle.
