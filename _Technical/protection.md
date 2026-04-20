@@ -50,3 +50,12 @@ Ability to secure data transmissions sent to and from the IoT device. Elements t
 - Ability to utilize one or more capabilities to protect the data it transmits from unauthorized access and modification.
 - Ability to use cryptographic means to validate the integrity of data transmitted.
 
+## Data Minimization
+
+Ability for the IoT device to limit data collection and retention to what is necessary for its intended function. Elements that may be necessary:
+
+- Ability to configure the types of data collected by the device.
+- Ability to disable data collection functions that are not required for the device's primary operational purpose.
+- Ability to limit the retention period of data stored on the device.
+- Ability to automatically purge data after a configurable retention period.
+- Ability to restrict the device from collecting data beyond its defined operational purpose.
