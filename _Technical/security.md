@@ -20,6 +20,9 @@ Ability to protect the execution of code on the device. Elements that may be nec
   - Ability to separate IoT device processes into separate execution domains.
 - Ability to separate the levels of IoT device user functionality.
 - Ability to authorize various levels of IoT device functionality.
+- Ability to securely boot the device and verify the integrity of its operating environment before execution.
+- Ability to validate firmware and software integrity at boot time using cryptographic verification (e.g., signed boot images).
+
 
 ## Secure Communication 
 
