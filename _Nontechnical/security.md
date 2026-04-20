@@ -142,3 +142,20 @@ Policies and procedures provide the details necessary to implement management an
 - Ensure proper language is within IoT device manufacturer contracts, and their external service providers, describing how they will monitor compliance, perform audits, etc., as appropriate to the IoT device and control.
 - Provide a clear description of the legal compliance requirements to the IoT device manufacturer detailing the compliance needs that must be fulfilled by the IoT device manufacturer to meet all associated compliance requirements, as appropriate to the IoT device and controls.
 - Follow procedures to consistently ensure appropriate security and privacy controls language is included within contracts with IoT device manufacturers and service providers.
+
+## Policies and procedures for IoT device vulnerability disclosure.
+
+Policies and procedures provide the details necessary to implement management and operational controls for coordinated vulnerability disclosure for IoT devices. Actions that may be necessary:
+
+**Manufacturer:**
+
+- Establish and maintain a public vulnerability disclosure policy for IoT devices.
+- Provide a mechanism for security researchers and IoT device customers to report vulnerabilities.
+- Provide timely communication to IoT device customers about confirmed vulnerabilities and available mitigations or patches.
+- Maintain a record of reported vulnerabilities, their status, and the timeline for remediation.
+
+**Agency:**
+
+- Implement policies and procedures requiring IoT device manufacturers to maintain a vulnerability disclosure program as a condition of procurement.
+- Implement procedures to monitor manufacturer vulnerability disclosures and apply mitigations within organizationally-defined timeframes.
+- Implement procedures to report newly discovered IoT device vulnerabilities to the manufacturer and to relevant federal vulnerability coordination entities (e.g., CISA).
